@@ -1,0 +1,9 @@
+.DS_Store
+*.log
+.vscode/
+.idea/
+.vercel
+node_modules/
+.next/
+next-env.d.ts
+public/
